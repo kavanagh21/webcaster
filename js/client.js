@@ -1251,7 +1251,7 @@
     audioMimeTypes = enabledMimeTypes([
       {
         name: "Opus audio",
-        value: "audio/webm;codecs=opus"
+        value: "audio/ogg;codecs=opus"
       }
     ]);
     videoMimeTypes = enabledMimeTypes([
